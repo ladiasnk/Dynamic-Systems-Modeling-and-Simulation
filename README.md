@@ -7,9 +7,7 @@ circuit's behavior are implemented. For both systems:
 - Generated graphs , system's A position and velocity, and for system B Estimation of system output , investigation of estimates in case of errors 
 - Following detailed shown steps for Least-squares algorithm
 
-System A
 ![System A](https://github.com/ladiasnk/Dynamic-Systems-Modeling-and-Simulation/blob/main/Chapter%20A/system%20A.jpg)
 
-System B
 ![System B](https://github.com/ladiasnk/Dynamic-Systems-Modeling-and-Simulation/blob/main/Chapter%20A/circuit.jpg)
 
