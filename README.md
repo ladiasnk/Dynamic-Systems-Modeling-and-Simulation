@@ -9,10 +9,9 @@ circuit's behavior are implemented. For both systems:
 
 ![System A](https://github.com/ladiasnk/Dynamic-Systems-Modeling-and-Simulation/blob/main/Chapter%20A/system%20A.jpg)
 
-For System B, voltages V_R and V_C were generated from the given file v.p. To access the values you can use:
+For System B, voltages Vr and Vc were generated from the given file v.p. To access the values you can use:
 
--V_R= Vout(1)
--V_C=Vout(2)
+Vr= Vout(1),Vc=Vout(2)
 
 ![System B](https://github.com/ladiasnk/Dynamic-Systems-Modeling-and-Simulation/blob/main/Chapter%20A/circuit.jpg)
 
