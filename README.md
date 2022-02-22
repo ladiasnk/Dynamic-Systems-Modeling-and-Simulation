@@ -17,4 +17,4 @@ Vr= Vout(1),Vc=Vout(2)
 ![System B](https://github.com/ladiasnk/Dynamic-Systems-Modeling-and-Simulation/blob/main/Chapter%20A/circuit.jpg)
 
 ### Chapter B
-In Chapter B, the purpose of the lab exercise was to estimate with on line tecnhiques unkown parameters using gradient method and Lyapunov method. Recognition systems were analyzed for both methods, mathematical theoretical analyses for the given system were performed in detail, and their simulation in Matlab. Finally, a modeling of a recognition system with the parallel topology of the Lyapunov method for a second-order system was performed. More details on the report of this second assignment itself.
+In Chapter B, the purpose of the lab exercise was to estimate with on line techniques unkown parameters using gradient method and Lyapunov method. Recognition systems were analyzed for both methods, mathematical theoretical analyses for the given system were performed in detail, and their simulation in Matlab. Finally, a modeling of a recognition system with the parallel topology of the Lyapunov method for a second-order system was performed. More details on the report of this second assignment itself.
